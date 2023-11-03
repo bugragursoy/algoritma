@@ -1,0 +1,52 @@
+1-
+#include <stdio.h>
+int main(){
+    float a,b;
+    printf("A değerini giriniz");
+    printf("\n");
+    scanf("%f", &a);
+    printf("B değerini giriniz");
+    printf("\n");
+    scanf("%f", &b);
+    printf("Toplam:%0.2f", a+b);
+    
+    return 0;
+}
+
+2-
+1. satır yorum eklenmiş
+2. satır kütüphaneyi dahil etmiş
+3. fonksiyon oluşturmuş
+5. Consola merhaba yazdırmış
+6. consola nasılsın yazdırmış
+7. satırda  0 olarak atayıp kodu sonlandırmış
+
+3- c,d,g,h,k,l,
+
+4-int toplam;
+
+5-
+#include <stdio.h>
+int main(){
+    int a,b;
+    printf("A değerini giriniz");
+    printf("\n");
+    scanf("%d", &a);
+    printf("B değerini giriniz");
+    printf("\n");
+    scanf("%d", &b);
+    printf("Toplam:%d", a+b);
+    
+    return 0;
+}
+
+6-c
+
+7-A: 11, B: 7, C: 2
+
+8- 
+	1. -27.38
+	2. -28.4
+	3. 25
+	4.290
+
